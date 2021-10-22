@@ -5,7 +5,6 @@
   <img align='left' alt='Next.js Icon' height='30' width='30' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg' />
   <img align='left' alt='Node.js Icon' height='30' width='30' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' />
   <img align='left' alt='MongoDB Icon' height='30' width='30' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg'/>
-  <img align='left' alt='Firebase Icon' height='30' width='30' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg'/>
 </div>
 
 <br />
@@ -19,6 +18,7 @@
   <img align='left' alt='Flask Icon' height='30' width='30' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg' />
   <img align='left' alt='PHP Icon' height='30' width='30' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg' />
   <img align='left' alt='MySQL Icon' height='30' width='30' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg'/>
+  <img align='left' alt='Firebase Icon' height='30' width='30' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg'/>
 </div>
 
 <br />
