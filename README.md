@@ -105,7 +105,7 @@ If you've seen something you like, please send a message so we can align our exp
   <a href='https://discordapp.com/users/4995' target='_blank'>
     <img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white' alt='Link to my Discord profile.' />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ricaro.passos.cr@gmail.com&su=Vi teu perfil no GH e te achei brabo&body=Bora trocar um papo" target='_blank'>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ricardo.passos.cr@gmail.com&su=Vi teu perfil no GH e te achei brabo&body=Bora trocar um papo" target='_blank'>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Link to my Gmail email" />
   </a>
 </div>
