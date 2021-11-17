@@ -2,6 +2,8 @@
 
 <p>Unlike others, I don't want to have a thousand badges on my profile. These are the technologies I use on a daily basis and I want to deepen my knowledge of them.</p>
 
+<strong><q>You are what you do, not what you say you'll do</q></strong> - Carl Jung
+
 <hr />
 
 <h4>🖊 Languages</h4>
