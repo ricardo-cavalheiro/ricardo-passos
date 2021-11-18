@@ -70,6 +70,9 @@
       <a href="#">
         <img src="https://img.shields.io/badge/React_Native-333333?style=for-the-badge&logo=react" alt="React Icon" />
       </a>
+      <a href="#">
+        <img src="https://img.shields.io/badge/Expo-333333?style=for-the-badge&logo=expo" alt="Expo Icon" />
+      </a>
     </td>
     <td valign="top" width="25%">
       <h2 align="center">🗂 Database</h2>
