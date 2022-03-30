@@ -32,7 +32,7 @@
       <h4></h4>
       <details>
         <h4></h4>
-        <summary>🌹 I'm flirting with</summary>
+        <summary>🤔 I want to learn more</summary>
         <a href="#">
           <img src="https://img.shields.io/badge/nest_js-333333?style=for-the-badge&logo=nestjs" alt="Nest.js Icon" />
         <a>
@@ -59,9 +59,9 @@
       </details>
       <details>
         <h4></h4>
-        <summary>🌹 I'm flirting with</summary>
+        <summary>🤔 I want to learn more</summary>
         <a href="#">
-          <img src="https://img.shields.io/badge/vue_js-333333?style=for-the-badge&logo=vue.js" alt="Vue.js Icon" />
+          <img src="https://img.shields.io/badge/solid.js-333333?style=for-the-badge&logo=solid" alt="Solid.js Icon" />
         <a>
       </details>
     </td>
@@ -79,10 +79,13 @@
       <a href="#">
         <img src="https://img.shields.io/badge/mongodb-333333?style=for-the-badge&logo=mongodb" alt="MongoDB Icon" />
       </a>
+      <a href="#">
+        <img src="https://img.shields.io/badge/Firebase-333333?style=for-the-badge&logo=firebase" alt="Firebase Icon" />
+      </a>
       <h4></h4>
       <details>
         <h4></h4>
-        <summary>🌹 I'm flirting with</summary>
+        <summary>🤔 I want to learn more</summary>
         <a href="#">
           <img src="https://img.shields.io/badge/prisma-333333?style=for-the-badge&logo=prisma" alt="Prisma Icon" />
         <a>
