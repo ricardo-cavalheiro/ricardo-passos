@@ -10,10 +10,10 @@
 
 <div>
   <a href="#">
-    <img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Icon" />
+    <img src="https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript" alt="TypeScript Icon" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript" alt="TypeScript Icon" />
+    <img src="https://img.shields.io/badge/Solidity-333333?style=for-the-badge&logo=solidity" alt="Solidity Icon" />
   </a>
 </div>
 
@@ -29,10 +29,13 @@
       <a href="#">
         <img src="https://img.shields.io/badge/express_js-333333?style=for-the-badge&logo=express" alt="Express.js Icon" />
       </a>
+      <a href="#">
+        <img src="https://img.shields.io/badge/hardhat-333333?style=for-the-badge&logo=hardhat" alt="Hardhat" />
+      </a>
       <h4></h4>
       <details>
         <h4></h4>
-        <summary>🤔 I want to learn more</summary>
+        <summary>🤔 I have interest in</summary>
         <a href="#">
           <img src="https://img.shields.io/badge/nest_js-333333?style=for-the-badge&logo=nestjs" alt="Nest.js Icon" />
         <a>
@@ -59,7 +62,7 @@
       </details>
       <details>
         <h4></h4>
-        <summary>🤔 I want to learn more</summary>
+        <summary>🤔 I have interest in</summary>
         <a href="#">
           <img src="https://img.shields.io/badge/solid.js-333333?style=for-the-badge&logo=solid" alt="Solid.js Icon" />
         <a>
@@ -85,7 +88,7 @@
       <h4></h4>
       <details>
         <h4></h4>
-        <summary>🤔 I want to learn more</summary>
+        <summary>🤔 I have interest in</summary>
         <a href="#">
           <img src="https://img.shields.io/badge/prisma-333333?style=for-the-badge&logo=prisma" alt="Prisma Icon" />
         <a>
